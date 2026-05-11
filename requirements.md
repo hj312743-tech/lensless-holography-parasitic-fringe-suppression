@@ -5,8 +5,6 @@
 The experiments were conducted on a workstation equipped with AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD, NVIDIA GeForce RTX 5060 Laptop GPU, and 31.8 GB RAM.
 
 ## Software
-
-- Operating system: Windows-10-10.0.26200-SP0
 - Python: 3.11.14
 - PyTorch: 2.9.1+cu128
 - PyTorch CUDA build: 12.8
