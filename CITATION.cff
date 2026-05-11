@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and the code as below."
+authors:
+  - family-names: "Jing"
+    given-names: "Huailong"
+  - family-names: "Shan"
+    given-names: "Meng"
+  - family-names: "Zhou"
+    given-names: "Wenhui"
+  - family-names: "Zhai"
+    given-names: "Chunjie"
+  - family-names: "Cao"
+    given-names: "Zhaolou"
+title: "Physics-driven self-supervised parasitic-fringe suppression for artifact-free lensless holography"
+version: 1.0.0
+date-released: 2025-05-11
+url: "https://github.com/你的用户名/仓库名"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jing"
+      given-names: "Huailong"
+    - family-names: "Shan"
+      given-names: "Meng"
+    - family-names: "Zhou"
+      given-names: "Wenhui"
+    - family-names: "Zhai"
+      given-names: "Chunjie"
+    - family-names: "Cao"
+      given-names: "Zhaolou"
+  title: "Physics-driven self-supervised parasitic-fringe suppression for artifact-free lensless holography"
+  year: 2025
